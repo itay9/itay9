@@ -1,6 +1,7 @@
 - 👋 Hi, I’m itay
 - 👀 I’m interested in softwere development
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/itaydali/
+- 
 - I've developted a website with Node.js for my motorcycle club with equipment and guides. http://bikers-buy.herokuapp.com/ 
 
 <!---
